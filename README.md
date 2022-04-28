@@ -17,3 +17,8 @@ O funcionamento de um texto-jogo é simples: a narrativa será apresentada e voc
 
 > O determinismo é uma corrente dentro da filosofia que diz que todos os eventos do futuro são determinados por causas preexistentes, ou seja, por relações de causalidade (A → B). Na maioria das vezes, o determinismo na física é conhecido como efeito causa e consequência. Com  isso, se diz que um episódio no futuro é determinado através de uma relação de eventos no passado. <br> No século XIX, o determinismo estava sendo cada vez mais aceito pelos filósofos e cientistas, dado que a ideia de espaço absoluto e a mecânica newtoniana estavam se tornando cada vez mais populares. Partindo disso, Laplace conjecturou a seguinte proposição: Se uma entidade pudesse conhecer todas as variáveis que determinam o estado de todas as partículas do universo como posição, momento linear, carga elétrica, velocidade, impulso, rotação, etc em um dado instante t no tempo e o conhecimento de todas as leis e propriedades físicas necessárias, então seria matematicamente possível determinar o estado daquela partícula no futuro (não seria um “demônio” propriamente, mas um ser onisciente).
 
+#
+
+### Fontes e referências
+- https://www.folhaum.com/post/liberdade-é-ou-não-real-demônio-de-laplace
+- https://universoracionalista.org/demonio-de-laplace/
