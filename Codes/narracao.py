@@ -1,3 +1,5 @@
+from time import sleep
+
 print('***'*21)
 print('                  Jovem Filho do Sol PRESENTS')
 print('***'*21)
