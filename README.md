@@ -1,6 +1,6 @@
 # Astros Perdidos
 
-<img href="https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/face-regonition.jpg">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/face-regonition.jpg">
 
 Astros perdidos é o teste inicial de texto-jogos, tendo sido inspirado por livro-jogos de RPG e também por alguns games primitivos, como <a href="https://www.youtube.com/watch?v=gLKw4AU4KHU">Star Trek</a> de 1971. A ideia principal desse jogo é explorar as possibilidades de vertentes e caminhos com o Python, além de trazer uma história onde você escolhe suas ações e define o seu próprio destino.
 
