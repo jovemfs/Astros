@@ -1,6 +1,7 @@
 # Astros Perdidos
 
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2022/03/face-regonition.jpg">
+<img src="https://cdn.mapgenie.io/images/games/the-outer-worlds/maps/byzantium.jpg">
+<!--<img src="https://media.moddb.com/images/games/1/60/59938/Outer_Worlds_City.png">-->
 
 Astros perdidos é o teste inicial de texto-jogos, tendo sido inspirado por livro-jogos de RPG e também por alguns games primitivos, como <a href="https://www.youtube.com/watch?v=gLKw4AU4KHU">Star Trek</a> de 1971. A ideia principal desse jogo é explorar as possibilidades de vertentes e caminhos com o Python, além de trazer uma história onde você escolhe suas ações e define o seu próprio destino.
 
@@ -22,3 +23,6 @@ O funcionamento de um texto-jogo é simples: a narrativa será apresentada e voc
 ### Fontes e referências
 - https://www.folhaum.com/post/liberdade-é-ou-não-real-demônio-de-laplace
 - https://universoracionalista.org/demonio-de-laplace/
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fmapgenie.io%2Fthe-outer-worlds&psig=AOvVaw1gGN2WyTDWFfnCAw1CtFYi&ust=1651193295011000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCNiaxb_EtfcCFQAAAAAdAAAAABAi
+- https://www.moddb.com/games/final-equinox/images/outer-worlds-concept-artved=0CA0QjhxqFwoTCNiaxb_EtfcCFQAAAAAdAAAAABAn
+- https://www.moddb.com/games/final-equinox/images/outer-worlds-concept-art
