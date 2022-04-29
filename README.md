@@ -22,6 +22,10 @@ O funcionamento de um texto-jogo é simples: a narrativa será apresentada e voc
 
 O jogo aborda temas que nos fazem refletir, como filosofia, espiritualidade, demonologia, sociologia e afins. Logo no começo somos apresentados a uma realidade luxuosa e um tanto mágica, porém em alguns turnos percebemos que nem tudo são flores e que existe um mundo para além de tudo o que julgamos saber. *Astros Perdidos* foi inspirado em clássicos como *Alice no País das Maravilhas* (1865), *Duna* (1965), *O Mágico de Oz* (1939), *Capitães da Areia* (1937) e *Metrópolis* (1927).
 
+###
+
+Os diagramas utilizados na construção do jogo foram montados com MS Visio. As concepções de imagens foram extraídas de diversos locais da internet e todos os direitos são reservados aos respectivos autores. Todos os arquivos de construção (diagramas, concepções, referências e PDFs) estão disponíveis open source <a href="https://drive.google.com/drive/folders/1c0HQ8niQJpog8KTRT5oVV2rH2i5xRfxi?usp=sharing">bem aqui</a> e catalogados no item 'Fontes e referências' ainda no README. 
+
 #
 
 ### Fontes e referências
@@ -30,3 +34,5 @@ O jogo aborda temas que nos fazem refletir, como filosofia, espiritualidade, dem
 - https://www.google.com/url?sa=i&url=https%3A%2F%2Fmapgenie.io%2Fthe-outer-worlds&psig=AOvVaw1gGN2WyTDWFfnCAw1CtFYi&ust=1651193295011000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCNiaxb_EtfcCFQAAAAAdAAAAABAi
 - https://www.moddb.com/games/final-equinox/images/outer-worlds-concept-artved=0CA0QjhxqFwoTCNiaxb_EtfcCFQAAAAAdAAAAABAn
 - https://www.moddb.com/games/final-equinox/images/outer-worlds-concept-art
+- https://letterboxd.com/film/metropolis/
+- https://digital.bbm.usp.br/bitstream/bbm/6845/1/45000008358_Output.o.pdf
