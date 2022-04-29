@@ -3,7 +3,7 @@
 <img src="https://cdn.mapgenie.io/images/games/the-outer-worlds/maps/byzantium.jpg">
 <!--<img src="https://media.moddb.com/images/games/1/60/59938/Outer_Worlds_City.png">-->
 
-Astros perdidos é o teste inicial de texto-jogos, tendo sido inspirado por livro-jogos de RPG e também por alguns games primitivos, como <a href="https://www.youtube.com/watch?v=gLKw4AU4KHU">Star Trek</a> de 1971. A ideia principal desse jogo é explorar as possibilidades de vertentes e caminhos com o Python, além de trazer uma história onde você escolhe suas ações e define o seu próprio destino.
+*Astros perdidos* é o teste inicial de texto-jogos, tendo sido inspirado por livro-jogos de RPG e também por alguns games primitivos, como <a href="https://www.youtube.com/watch?v=gLKw4AU4KHU">Star Trek</a> de 1971. A ideia principal desse jogo é explorar as possibilidades de vertentes e caminhos com o Python, além de trazer uma história onde você escolhe suas ações e define o seu próprio destino.
 
 ###
 
@@ -17,6 +17,10 @@ O funcionamento de um texto-jogo é simples: a narrativa será apresentada e voc
 É necessária também a reflexão sobre O Demônio de Laplace, experimento mental de Pierre Simon Laplace que traz a ideia de prever e determinar o futuro baseado em dados de variáveis do passado. Como não é humanamente possível criar variáveis infinitas - e o programa provavelmente explodiria se eu tentasse -, esse texto-jogo terá apenas 3 opções de ação para cada turno, tornando o universo da aventura muito mais determinista do que eu gostaria, infelizmente.
 
 > O determinismo é uma corrente dentro da filosofia que diz que todos os eventos do futuro são determinados por causas preexistentes, ou seja, por relações de causalidade (A → B). Na maioria das vezes, o determinismo na física é conhecido como efeito causa e consequência. Com  isso, se diz que um episódio no futuro é determinado através de uma relação de eventos no passado. <br> No século XIX, o determinismo estava sendo cada vez mais aceito pelos filósofos e cientistas, dado que a ideia de espaço absoluto e a mecânica newtoniana estavam se tornando cada vez mais populares. Partindo disso, Laplace conjecturou a seguinte proposição: Se uma entidade pudesse conhecer todas as variáveis que determinam o estado de todas as partículas do universo como posição, momento linear, carga elétrica, velocidade, impulso, rotação, etc em um dado instante t no tempo e o conhecimento de todas as leis e propriedades físicas necessárias, então seria matematicamente possível determinar o estado daquela partícula no futuro (não seria um “demônio” propriamente, mas um ser onisciente).
+
+#
+
+O jogo aborda temas que nos fazem refletir, como filosofia, espiritualidade, demonologia, sociologia e afins. Logo no começo somos apresentados a uma realidade luxuosa e um tanto mágica, porém em alguns turnos percebemos que nem tudo são flores e que existe um mundo para além de tudo o que julgamos saber. *Astros Perdidos* foi inspirado em clássicos como *Alice no País das Maravilhas* (1865), *Duna* (1965), *O Mágico de Oz* (1939), *Capitães da Areia* (1937) e *Metrópolis* (1927).
 
 #
 
