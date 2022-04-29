@@ -18,7 +18,7 @@ O funcionamento de um texto-jogo é simples: a narrativa será apresentada e voc
 
 > O determinismo é uma corrente dentro da filosofia que diz que todos os eventos do futuro são determinados por causas preexistentes, ou seja, por relações de causalidade (A → B). Na maioria das vezes, o determinismo na física é conhecido como efeito causa e consequência. Com  isso, se diz que um episódio no futuro é determinado através de uma relação de eventos no passado. <br> No século XIX, o determinismo estava sendo cada vez mais aceito pelos filósofos e cientistas, dado que a ideia de espaço absoluto e a mecânica newtoniana estavam se tornando cada vez mais populares. Partindo disso, Laplace conjecturou a seguinte proposição: Se uma entidade pudesse conhecer todas as variáveis que determinam o estado de todas as partículas do universo como posição, momento linear, carga elétrica, velocidade, impulso, rotação, etc em um dado instante t no tempo e o conhecimento de todas as leis e propriedades físicas necessárias, então seria matematicamente possível determinar o estado daquela partícula no futuro (não seria um “demônio” propriamente, mas um ser onisciente).
 
-#
+###
 
 O jogo aborda temas que nos fazem refletir, como filosofia, espiritualidade, demonologia, sociologia e afins. Logo no começo somos apresentados a uma realidade luxuosa e um tanto mágica, porém em alguns turnos percebemos que nem tudo são flores e que existe um mundo para além de tudo o que julgamos saber. *Astros Perdidos* foi inspirado em clássicos como *Alice no País das Maravilhas* (1865), *Duna* (1965), *O Mágico de Oz* (1939), *Capitães da Areia* (1937) e *Metrópolis* (1927).
 
