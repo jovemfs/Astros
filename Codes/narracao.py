@@ -1,6 +1,6 @@
 from time import sleep
 
-acao01 = 0
+escolhaidade = 0
 
 print('***'*21)
 print('                  Jovem Filho do Sol PRESENTS')
@@ -38,21 +38,23 @@ quase como deuses.''')
 print('****')
 sleep(6)
 
-while acao01 != ['1', '2', '3']:
-  nome = str(input('Qual será o seu primeiro nome? ')).strip()
-  escolhaidade = int(input('''Qual será sua idade? 
+nome = str(input('Qual será o seu primeiro nome? ')).strip()
+
+while escolhaidade != 1 and escolhaidade != 2 and escolhaidade != 3:
+    print('''Qual será sua idade? 
   [1] - 15
   [2] - 17
-  [3] - 18  '''))
-  if escolhaidade == 1:
-    idade = 15
-  elif escolhaidade == 2:
-    idade = 17
-  elif escolhaidade == 3:
-    idade = 18
-  else:
-    print('Você não selecionou uma opção válida. Volte e refaça.')
-    
+  [3] - 18  ''')
+    escolhaidade = int(input('Qual será sua idade? '))
+    if escolhaidade == 1:
+        idade = 15
+    elif escolhaidade == 2:
+        idade = 17
+    elif escolhaidade == 3:
+        idade = 18
+    else:
+        print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
+
 print('****')
 print('VERIFICAÇÃO: o jogador escolheu se chamar {} e ter {} anos.'.format(nome, idade))
 print('****')
