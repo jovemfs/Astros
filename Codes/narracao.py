@@ -194,4 +194,4 @@ A moça sorriu lindamente de volta. Vocês ficaram imersos naquela bolha de simp
         print(' ')
 
 print(' ')
-print(''' abc''')
+print(''' ''')
