@@ -58,3 +58,25 @@ while escolhaidade != 1 and escolhaidade != 2 and escolhaidade != 3:
 print('****')
 print('VERIFICAÇÃO: o jogador escolheu se chamar {} e ter {} anos.'.format(nome, idade))
 print('****')
+
+sleep(5)
+print(''' O sir. Sary costumava repetir que os domingos são dias sagrados
+para a família Rama. Talvez as baboseiras por ele proferidas fossem
+tamanhas que, após algum tempo, seu avô daria o braço a torcer e transferiria
+os compromissos sociais para a sexta-feira.''')
+sleep(9)
+print('***')
+print(''' De fato um bom exemplo sobre como o poder e influência de um
+conselheiro podem transcender qualquer cargo político. Homens no poder tendem a
+dar ouvidos aos místicos excêntricos que aparecem em seus conturbados auges, o 
+que de alguma forma te fez detestar cada vez mais os que não eram céticos.''')
+sleep(9)
+print('***')
+print(''' Era notável que o jovem {} não gostava muito da ideia de compromissos
+sociais, sobretudo por estarem em um dia que o deixava exausto, sempre. Obviamente
+a presença dos Cultuadores e do Culto em si deixavam tudo ainda pior.'''. format(nome))
+sleep(9)
+print('***')
+print(''' Era uma manhã chuvosa e fria, com ventos cortantes e barulhentos.
+Atrás da grande porta de cascalho escuro, ouvia-se apenas o caminhar apressado
+de sapatos femininos como quem tentava correr de forma discreta.''')
