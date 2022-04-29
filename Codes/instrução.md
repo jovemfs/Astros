@@ -8,4 +8,5 @@ Você deverá baixar esse repositório em .zip, extrair e abrir a pasta em sua I
 <img width="650" src="https://user-images.githubusercontent.com/59957939/165652494-987620c4-2415-4551-a46f-651086549a0e.png">
 
 ###
-Após isso, execute o arquivo `narracao.py` no terminal de sua preferência. O jogo se iniciará e você já pode começar a aventura onde <strong>você é o herói!</strong>
+
+Isso feito, abra o terminal. Dê *cd* até encontrar a pasta **Codes**. Depois disso, digite ```python .\narracao.py```.  O final do código deverá ficar dessa forma:   `...\astros\codes> python .\narracao.py`.  Após isso, dê *enter* para executar o arquivo `narracao.py` no terminal. Se tudo foi seguido corretamente, o jogo iniciará a aventura onde **você é o herói!**
