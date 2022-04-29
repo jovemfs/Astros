@@ -1,6 +1,7 @@
 from time import sleep
 
 escolhaidade = 0
+acao01 = 0
 
 print('***'*21)
 print('                  Jovem Filho do Sol PRESENTS')
@@ -57,9 +58,11 @@ while escolhaidade != 1 and escolhaidade != 2 and escolhaidade != 3:
 
 print(' ')
 print('VERIFICAÇÃO: o jogador escolheu se chamar {} e ter {} anos.'.format(nome, idade))
+print(' ')
 print('***'*21)
 
 sleep(5)
+print(' ')
 print(''' O sir. Sary costumava repetir que os domingos são dias sagrados
 para a família Rama. Talvez as baboseiras por ele proferidas fossem
 tamanhas que, após algum tempo, seu avô daria o braço a torcer e transferiria
@@ -131,4 +134,64 @@ empregos de todos os reinos e terras.
 Quando ela te viu acordar, um sorriso de alívio foi tão presente que quase se esqueceu
 de esconder.''')
 print(' ')
+sleep(10)
+print(''' Acordando desorientado devido ao susto, o jovem olha para cima e vê a figura
+reconfortante de uma garota que aparentava ter sua idade. Ela, ao contrário das outras
+que já passaram por ali, não parecia ter receio de tocá-lo, e ele praticamente estava
+deitado em seus braços enquanto processava tudo.''')
+print(' ')
+sleep(11)
+print(''' {} começou os olhos e foi se afastando lentamente de forma discreta para
+conseguir analisar melhor aquela que viria a ser sua nova "sombra".'''.format(nome))
+print(' ')
+sleep(6)
+print(''' Aquela era a décima serviçal contratada para lhe ajudar. Esse número seria
+aceitável se estivessemos falando de um tempo maior do que dez dias, o que
+não era o caso.''')
+print(' ')
+sleep(4)
+print(''' Você claramente não conhecia a mulher e ficara constrangido com isso. Ao
+contrário do resto da família, você não se sentia mais especial do que os que trabalhavam
+na casa. Para falar a verdade, o Jovem Filho do Sol tinha consideráveis problemas
+de autoestima.''')
+print(' ')
 sleep(9)
+
+while acao01 != 1 and acao01 != 2 and acao01 != 3:
+    print('''(ação.01) Opções de ação:
+[1] - Saudar ela de forma tímida e contida
+[2] - Por receio, ignorar sua presença
+[3] - Abrir um sorriso grande e acolhedor, afinal era seu primeiro dia e ela
+provavelmente estaria ansiosa e com medo.''')
+    print(' ')
+    acao01 = int(input('Olhando para a mulher a sua frente, o que você deseja fazer? '))
+    print(' ')
+    if acao01 == 1:
+        print(''' {} pensa que, dada a pressão que a moça estaria sofrendo, esse estaria
+sendo um dia horrível para ela. Considerando sua criação, a empatia é até que grande
+em sua pessoa. Apesar de sua timidez te forçar a ficar em silêncio, você consegue acenar
+com as mãos num claro gesto de simpatia, e somente esse pequeno ato foi o suficiente para
+ela soltar involuntariamente um longo suspiro de alívio, esse sendo logo repreendido pela
+mesma.'''.format(nome))
+        sleep(12)
+    elif acao01 == 2:
+        print(''' A ansiedade dela era inquietante de fato, coisa que chegava a te incomodar também.
+Você pensa em dizer algumas palavras para confortá-la, mas a timidez lhe impede. Depois de alguns
+segundos em uma troca de olhares desconfortável, {} simplesmente levanta e se coloca em pé ao
+lado da cama, tudo conforme o ritual manda.'''.format(nome))
+        sleep(9)
+    elif acao01 == 3:
+        print(''' Apesar da chuva e dos compromissos, {} tivera uma ótima noite de sono e estava de bom humor.
+Contemplou a situação da moça por breves segundos e rapidamente se sensibilizou com sua ansiedade
+e desajeito. Não se sabe a razão, mas aquela garota havia lhe despertado um sentimento de pertencimento,
+como se vocês enfrentassem os mesmos problemas. Você não demorou muito para calcular tudo isso e
+imediatamente abrir um sorriso lindo e tranquilizante, gerando um clima imensamente confortável
+dentro daquele quarto.
+A moça sorriu lindamente de volta. Vocês ficaram imersos naquela bolha de simpatia durante minutos.'''.format(nome))
+        sleep(16)
+    else:
+        print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
+        print(' ')
+
+print(' ')
+print(''' abc''')
