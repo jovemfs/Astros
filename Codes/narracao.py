@@ -2,6 +2,7 @@ from time import sleep
 
 escolhaidade = 0
 acao01 = 0
+acao02 = 0
 
 print('***'*21)
 print('                  Jovem Filho do Sol PRESENTS')
@@ -112,7 +113,7 @@ com móveis, pinturas, estatuetas e decorações mais. Eles combinavam entre si,
 mas parecia que todo aquele amontoado de coisas estava em sincronia não só estética. 
 O que mais chamou a atenção da serviçal foi o quadro pendurado no centro da parede
 que ficava em frente a cama, o que seria visto ao dormir e acordar.''')
-sleep(11)
+sleep(10)
 print(' ')
 print(''' A jovem ficou submergida em pensamentos, teorias e ansiedade. Provavelmente
 passou longos 20 minutos lendo o ambiente antes de se dar conta de que estava ali a
@@ -172,7 +173,9 @@ sendo um dia horrível para ela. Considerando sua criação, a empatia é até q
 em sua pessoa. Apesar de sua timidez te forçar a ficar em silêncio, você consegue acenar
 com as mãos num claro gesto de simpatia, e somente esse pequeno ato foi o suficiente para
 ela soltar involuntariamente um longo suspiro de alívio, esse sendo logo repreendido pela
-mesma.'''.format(nome))
+mesma.
+ Para não ficar em meio a um silêncio gritante, você se levanta sem precisar ser mandado e
+já aguarda pelas instruções do ritual que deverá ser orientado por ela.'''.format(nome))
         sleep(12)
     elif acao01 == 2:
         print(''' A ansiedade dela era inquietante de fato, coisa que chegava a te incomodar também.
@@ -187,11 +190,81 @@ e desajeito. Não se sabe a razão, mas aquela garota havia lhe despertado um se
 como se vocês enfrentassem os mesmos problemas. Você não demorou muito para calcular tudo isso e
 imediatamente abrir um sorriso lindo e tranquilizante, gerando um clima imensamente confortável
 dentro daquele quarto.
-A moça sorriu lindamente de volta. Vocês ficaram imersos naquela bolha de simpatia durante minutos.'''.format(nome))
+ A moça sorriu lindamente de volta. Vocês ficaram imersos naquela bolha de simpatia durante minutos,
+até que ela pediu educadamente para se levantar.'''.format(nome))
         sleep(16)
     else:
         print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
         print(' ')
 
 print(' ')
-print(''' ''')
+print(''' Ao contrário dos outros dias, na sexta-feira você não se alimenta pela manhã. Como de
+costume, em sua mão direita a serviçal carrega uma adaga cuja lâmina verde-esmeralda parece aprisionar almas.
+Na esquerda guarda uma bolsa de couro, e seu conteúdo você só pode especular, já que isso é fora da curva e
+não costuma aparecer sempre. ''')
+print(' ')
+sleep(8)
+print(''' Ela parece notar seu olhar curioso frente a bolsa que carrega, e por alguns segundos pensou
+em fazer suspense, mas logo desistiu da ideia. "Seria legal abrir o jogo com o Jovem e ganhar pontos",
+pensou ela. O plano estava montado...''')
+print(' ')
+sleep(5)
+print(''' A moça se aproximou de você com a adaga verde-esmeralda em mãos, dessa vez empunhando-a da
+forma correta. Ela deu dois passos para frente, ficando a centímetros de sua face. Você se sente ameaçado,
+mas racionalmente sabe que não há nada a temer. A adaga é colocada sobre seu peito, e então o sentimento
+de confiança vai embora e o desconforto começa a dominar.''')
+print(' ')
+sleep(10)
+print(''' - Você certamente não conhece essa bolsa, muito menos o que trago nela... -- uma pausa na frase e então
+ela começa a te olhar em completo silêncio. A moça claramente estava te desafiando. -- É uma coisa nova, na
+verdade é a razão pela qual estamos aqui, eu e Elas.''')
+print(' ')
+sleep(7)
+print(''' Elas? Elas quem? Isso nunca acontecera, você não faz ideia da razão pela qual está sendo sutilmente
+ameaçado por sua serviçal particular.''')
+print(' ')
+sleep(5)
+print(''' - Quem é você? Qual é seu nome? -- com a voz trêmula {} diz enquanto se afasta lentamente da lâmina esmeralda sobre seu peito.
+Você alterna sua visão entre a lâmina e a moça que parecia se divertir com sua situação de angústia.'''.format(nome))
+print(' ')
+sleep(5)
+print(''' - Meu nome? -- ela abre um sorriso como quem esperasse ansiosamente por essa pergunta -- Você já se perguntou
+a razão pela qual todas as outras evitavam falar com você? -- a moça aguardou sua resposta, o que não aconteceu -- Sou
+diferente delas, seus pais me pediram para que fosse. Se você colaborar, eu posso te dar algumas dicas para o torneio.''')
+print(' ')
+sleep(9)
+print(''' Ok, agora começou a ficar estranho. Uma nova serviçal surge em seu quarto, e sua primeira impressão sobre
+ela é boa. Porém em minutos sua personalidade flui e ela passa a lhe ameaçar com uma adaga amedrontadora, além de citar
+coisas das quais você desconhece completamente. Isso definitivamente estava estranho.''')
+print(' ')
+sleep(8)
+print(''' Em segundos, sua personalidade muda novamente e a garota se afasta juntamente com a adaga, mas segue te olhando
+com satisfação visível. Seja lá o que estava tramando, deu certo.''')
+print(' ')
+sleep(5)
+print(''' - {}, eu tenho novidades para você... -- caminhando até o centro do quarto, ela abre a bolsa de couro e despeja
+seu conteúdo sobre a mesa redonda de mármore. Você pode observar alguns itens curiosos, dentre eles um pote contendo um líquido
+rosa vibrante, algo que parecia ser uma bússola ou um relógio, uma pulseira verde-esmeralda da mesma tonalidade da adaga e uma
+corrente dourada cravejada de brilhantes. A moça pega apenas os dois últimos itens e caminha até você.'''.format(nome))
+print(' ')
+sleep(10)
+
+while acao02 != 1 and acao02 != 2:
+    print('''(ação.02) Opções de itens: 
+  [1] - Pulseira verde-esmeralda
+  [2] - Corrente dourada cravejada de brilhantes  ''')
+    print(' ')
+    acao02 = int(input('Qual item você quer pegar? '))
+    if acao02 == 1:
+        iteminicial = 'pulseira'
+    elif acao02 == 2:
+        iteminicial = 'corrente'
+    else:
+        print(' ')
+        print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
+        print(' ')
+
+print(' ')
+sleep(2)
+print(''' {} olha para ela com medo. Existe uma certa resistência, mas após alguns segundos o Jovem estende sua mão
+e pega a {} que ela guardava.'''.format(nome, iteminicial))
