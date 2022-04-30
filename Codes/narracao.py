@@ -326,23 +326,23 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
     print('''(ação.03) Opções de carta: 
   [1] - Carta pequena. Roxo claro quase lilás, com detalhes dourados nas bordas
   [2] - Carta média. Roxo escuro perto do azul, com muitos detalhes dourados no centro
-  [3] - Carta grande. Roxo vibrante e ''')
+  [3] - Carta grande. Roxo vibrante, detalhes dourados traçam um desenho de "raízes"''')
     print(' ')
     acao03 = int(input('Qual carta você quer pegar? '))
     if acao03 == 1:
-        carta = ''
-        vantagem = ''
+        carta = 'lilás'
+        vantagem = 'Nas bordas do campo existem '
     elif acao03 == 2:
-        carta = ''
+        carta = 'quase-azul'
         vantagem = ''
     elif acao03 == 3:
-        carta = ''
+        carta = 'vibrante'
         vantagem = ''
     else:
         print(' ')
         print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
         print(' ')
 
-print(''' ABC''')
+print(vantagem)
 print(' ')
 sleep(8)
