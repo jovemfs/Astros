@@ -41,3 +41,4 @@ Os fluxogramas utilizados na construção do jogo foram montados com MS Visio. A
 - https://letterboxd.com/film/metropolis/
 - https://digital.bbm.usp.br/bitstream/bbm/6845/1/45000008358_Output.o.pdf
 - https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
+- https://www.amazon.com.br/Duna-Frank-Herbert/dp/857657313X
