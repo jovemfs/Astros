@@ -30,6 +30,17 @@ Por ser um estilo de RPG textual e narrativo, o código conta com inúmeras linh
 
 Os fluxogramas utilizados na construção do jogo foram montados com MS Visio. As concepções de imagens foram extraídas de diversos locais da internet e todos os direitos são reservados aos respectivos autores. Todos os arquivos de construção (fluxogramas, referências, PDFs etc) eventualmente estarão disponíveis open source <a href="https://drive.google.com/drive/folders/1c0HQ8niQJpog8KTRT5oVV2rH2i5xRfxi?usp=sharing">bem aqui</a> e catalogados no item <a href="https://github.com/jovemfs/Astros#fontes-e-refer%C3%AAncias">Fontes e referências</a> ainda no README. 
 
+###
+
+Uma refência essencial para a criação de *Astros Perdidos* foram os RPGs de mesa que joguei com meus amigos ao longo da pandemia, com citação especial para as campanhas de *Call Of Cthulhu*, sistema de RPG inspirado nas obras de HP Lovecraft. Diversos livro-jogos também são referências em narrativa e funcionamento, com menção a *Encontro Marcado com o M.E.D.O.* (Steve Jackson), *A Cidade dos Ladrões* (Ian Livingstone), *O Porto do Perigo* (Ian Livingstone) e *Desafio dos Campeões* (Ian Livingstone).
+
+###
+
+O longa *Black Mirror: Bandersnatch* (2018) foi o ponta pé para me fazer iniciar o projeto. Precisava treinar laços em Python e, após rever o filme, pensei que uma boa forma de praticar seria criar situações de validação de escolhas e variáveis que definem a progressão de uma história. Obviamente a complexidade do projeto não chega nem aos pés de todas as referências e inspirações citadas nesse texto, porém esse é apenas um **estudo** sobre programação, nunca se propondo a ser uma obra prima da literatura ou algo do tipo - afinal eu sequer escrevo profissionalmente. Se quiser jogar algo realmente bom, recomendo os livro-jogos do autor <a href="https://www.amazon.com.br/RPG-Ian-Livingstone-Livros/s?rh=n%3A14486176011%2Cp_lbr_books_authors_browse-bin%3AIan+Livingstone
+">Ian Livingstone</a>, alguns tendo sido citados no parágrafo anterior.
+
+<img src="https://user-images.githubusercontent.com/59957939/166114736-572c8e7e-3050-4015-9074-e828ec193a73.png">
+
 #
 
 ### Fontes e referências
@@ -42,3 +53,11 @@ Os fluxogramas utilizados na construção do jogo foram montados com MS Visio. A
 - https://digital.bbm.usp.br/bitstream/bbm/6845/1/45000008358_Output.o.pdf
 - https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 - https://www.amazon.com.br/Duna-Frank-Herbert/dp/857657313X
+- https://letterboxd.com/film/the-wizard-of-oz-1939/
+- https://i.imgur.com/MI9G4jZ.jpeg
+- https://i.pinimg.com/originals/5f/ac/ae/5facae9bba755c432e7e9558951773f3.jpg
+- https://www.blogrebellen.de/wp-content/uploads/2018/12/tuckersoft-jobs-t.jpg
+- https://www.askpython.com/python/text-based-adventure-game
+- https://www.amazon.com.br/Cidade-dos-Ladrões-5/dp/8589134458/ref=asc_df_8589134458/?tag=googleshopp00-20&linkCode=df0&hvadid=379708268622&hvpos=&hvnetw=g&hvrand=9504708419674614702&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1040482818632&psc=1
+- https://www.amazon.com.br/Porto-do-Perigo-Ian-Livingstone/dp/8583651078/ref=sr_1_2?qid=1651336666&refinements=p_27%3AIan+Livingstone&s=books&sr=1-2&text=Ian+Livingstone
+- https://www.amazon.com.br/Desafio-dos-Campeões-Ian-Livingstone/dp/8589134768
