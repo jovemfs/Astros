@@ -46,7 +46,7 @@ O longa *Black Mirror: Bandersnatch* (2018) foi o ponta pé para me fazer inicia
 ### Fontes e referências
 - https://www.folhaum.com/post/liberdade-é-ou-não-real-demônio-de-laplace
 - https://universoracionalista.org/demonio-de-laplace/
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fmapgenie.io%2Fthe-outer-worlds&psig=AOvVaw1gGN2WyTDWFfnCAw1CtFYi&ust=1651193295011000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCNiaxb_EtfcCFQAAAAAdAAAAABAi
+- https://mapgenie.io/the-outer-worlds
 - https://www.moddb.com/games/final-equinox/images/outer-worlds-concept-artved=0CA0QjhxqFwoTCNiaxb_EtfcCFQAAAAAdAAAAABAn
 - https://www.moddb.com/games/final-equinox/images/outer-worlds-concept-art
 - https://letterboxd.com/film/metropolis/
