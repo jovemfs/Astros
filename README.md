@@ -28,7 +28,7 @@ Por ser um estilo de RPG textual e narrativo, o código conta com inúmeras linh
 
 ###
 
-Os fluxogramas utilizados na construção do jogo foram montados com MS Visio. As concepções de imagens foram extraídas de diversos locais da internet e todos os direitos são reservados aos respectivos autores. Todos os arquivos de construção (fluxogramas, referências, PDFs etc) estão disponíveis open source <a href="https://drive.google.com/drive/folders/1c0HQ8niQJpog8KTRT5oVV2rH2i5xRfxi?usp=sharing">bem aqui</a> e catalogados no item <a href="https://github.com/jovemfs/Astros#fontes-e-refer%C3%AAncias">Fontes e referências</a> ainda no README. 
+Os fluxogramas utilizados na construção do jogo foram montados com MS Visio. As concepções de imagens foram extraídas de diversos locais da internet e todos os direitos são reservados aos respectivos autores. Todos os arquivos de construção (fluxogramas, referências, PDFs etc) eventualmente estarão disponíveis open source <a href="https://drive.google.com/drive/folders/1c0HQ8niQJpog8KTRT5oVV2rH2i5xRfxi?usp=sharing">bem aqui</a> e catalogados no item <a href="https://github.com/jovemfs/Astros#fontes-e-refer%C3%AAncias">Fontes e referências</a> ainda no README. 
 
 #
 
