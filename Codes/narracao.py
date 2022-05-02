@@ -11,7 +11,7 @@ vantagem = 0
 # relacao
 
 print('***'*21)
-print('                  Jovem Filho do Sol PRESENTS')
+print('                  The Fabulous ASTRO bros')
 print('***'*21)
 print('''         
                       .---------.         
@@ -31,6 +31,7 @@ print('''
                       `---------'          
 ''')
 print('***'*21)
+print(' ')
 sleep(1)
 print('Olá, jovem. Seja bem-vindo.')
 sleep(1)
