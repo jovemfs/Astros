@@ -11,6 +11,7 @@ escolhaidade = 0
 acao01 = 0
 acao02 = 0
 acao03 = 0
+vantagem = 0
 
 # <---------..__ TESTAGEM __..--------->
 
@@ -78,20 +79,38 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
     acao03 = int(input('Qual carta você quer pegar? '))
     if acao03 == 1:
         carta = 'lilás'
-        vantagem = ''
+        vantagem += 5
+        cartadesc = 'Nas bordas do campo existem '
     elif acao03 == 2:
         carta = 'quase-azul'
-        vantagem = ''
+        vantagem += 4
+        cartadesc = ''
     elif acao03 == 3:
         carta = 'vibrante'
-        vantagem = ''
+        vantagem += 3
+        cartadesc = ''
     else:
         print(' ')
         print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
         print(' ')
-print(' VERIFICACAO: {}, {}'.format(carta, vantagem))
+print(' VERIFICACAO: {}, {}'.format(carta, vantagem, cartadesc))
 print(' ')
 # <-- ITEM INICIAL COMEÇO -->
+
+print('''#
+#
+# 
+# ''')
+print(' ')
+
+# <-- VANTAGEM STATUS COMEÇO -->
+print(' Sua vantagem (status): {}'.format(vantagem))
+print(' ')
+if vantagem < 3:
+    print(' Voce nao passou no teste')
+else:
+    print(' Voce passou no teste')
+# <-- VANTAGEM STATUS FINAL -->
 
 print('''#
 #
