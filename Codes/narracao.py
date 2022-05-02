@@ -4,6 +4,7 @@ escolhaidade = 0
 acao01 = 0
 acao02 = 0
 acao03 = 0
+vantagem = 0
 
 # iteminicial
 # carta
@@ -331,18 +332,21 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
     acao03 = int(input('Qual carta você quer pegar? '))
     if acao03 == 1:
         carta = 'lilás'
-        vantagem = 'Nas bordas do campo existem '
+        vantagem += 5
+        cartadesc = 'Nas bordas do campo existem '
     elif acao03 == 2:
         carta = 'quase-azul'
-        vantagem = ''
+        vantagem += 4
+        cartadesc = ''
     elif acao03 == 3:
         carta = 'vibrante'
-        vantagem = ''
+        vantagem += 3
+        cartadesc = ''
     else:
         print(' ')
         print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
         print(' ')
 
-print(vantagem)
+print(''' ''')
 print(' ')
 sleep(8)
