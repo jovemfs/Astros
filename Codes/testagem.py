@@ -1,4 +1,7 @@
+from doctest import OutputChecker
+from mimetypes import common_types
 from time import sleep
+from unicodedata import name
 
 
 """ arquivo para realizar a testagem sem ter que
@@ -83,7 +86,7 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
         cartadesc = 'Nas bordas do campo existem '
     elif acao03 == 2:
         carta = 'quase-azul'
-        vantagem += 4
+        vantagem += 2
         cartadesc = ''
     elif acao03 == 3:
         carta = 'vibrante'
@@ -106,10 +109,19 @@ print(' ')
 # <-- VANTAGEM STATUS COMEÇO -->
 print(' Sua vantagem (status): {}'.format(vantagem))
 print(' ')
+""" sistema de acumulo de pontos onde a cada decisao o jogador
+soma "vantagens", pontos que lhe darao alguma vantagem na 
+arena e poderao facilitar muito a sua vida. Passado algum acumulo
+de vantagens, o jogo fara testes que definirao se voce tera facilitacoes
+nas provas ou nao. A cada SUCESSO em teste - ou seja, se vc tiver vantagens
+suficientes para passar no if else -, seus pontos de vantagem sao
+zerados, funcionando como pontos de sorte num RPG de mesa """
 if vantagem < 3:
     print(' Voce nao passou no teste')
 else:
     print(' Voce passou no teste')
+    vantagem -= vantagem
+print(' VERIFICAÇÃO: {} pontos atuais de vantagens'.format(vantagem))
 # <-- VANTAGEM STATUS FINAL -->
 
 print('''#
