@@ -51,11 +51,15 @@ O longa *Black Mirror: Bandersnatch* (2018) foi o ponta pé para me fazer inicia
 
 ## Pontos de vantagem
 
-Falando sobre progressão da aventura, utilizei um sistema de pontos chamado de *vantagem*, onde determinadas decisões do jogador somam ou subtraem *pontos de vantagem*. Após alguns turnos de ação, são realizados testes de *vantagem* que, baseados na sua quantidade de pontos acumulados durante dos turnos anteriores, poderão definir se aquela será uma tarefa fácil ou não. Porém a *vantagem* funciona como uma moeda de troca: caso você tenha pontos suficientes para passar nos testes e obter uma vantagem em determinada provação, seus pontos serão subtraídos, dessa forma não sendo possível utilizar os mesmos *pontos de vantagem* mais de uma vez. Esse sistema de pontos foi inspirado por *Call Of Cthulhu* e *GURPS*.
+Falando sobre progressão da aventura, utilizei um sistema de pontos chamado de *vantagem*, onde determinadas decisões do jogador somam ou subtraem *pontos de vantagem*. Após alguns turnos de ação, são realizados testes de *vantagem* que, baseados na sua quantidade de pontos acumulados durante dos turnos anteriores, poderão definir se aquela tarefa será facilitada ou não. Porém a *vantagem* funciona como uma moeda de troca: caso você tenha pontos suficientes para passar nos testes e obter uma vantagem em determinada provação, seus pontos serão subtraídos, dessa forma não sendo possível utilizar os mesmos *pontos de vantagem* mais de uma vez. Esse sistema de pontos foi inspirado por *Call Of Cthulhu* e *GURPS*.
 
 ###
 
-Considerações importantes sobre os pontos de vantagem: durante a narração, o jogador **não** saberá quantos pontos cada alternativa soma ou subtrai. A sua quantidade de pontos só será informada nos turnos de provação, os turnos testes onde haverá a testagem de pontos.
+Consideração importante sobre os pontos de vantagem: durante a narração, o jogador **não** saberá quantos pontos cada alternativa soma ou subtrai. A sua quantidade de pontos só será informada nos turnos de provação, os turnos testes onde haverá a testagem de pontos.
+
+## Itens de efeito
+
+Os *itens de efeito* funcionam quase como os *pontos de vantagem*, impactando o destino do jogador. A principal diferença é que, além de possivelmente te ajudar, eles podem também atrapalhar (e muito) a campanha. Se você está em uma catacumba medieval e encontra uma série de artefatos antigos, observa ao longe um anel brilhante grafado com inúmeras runas antigas e então decide se apossar dele; você não sabe, mas aquele item trará uma legião de demônios para dificultar sua jornada. De qualquer forma, foi sua escolha se apossar daquele item ou não, e as consequências disso virão depois. Apesar dessa desventura, você poderia, do contrário, pegar algum item sagrado que lhe ajudaria ao invés de atrapalhar - o importante é entender que o efeito do item só aparecerá depois e o jogador **não sabe** qual será esse efeito até de fato ele o prejudicar ou ajudar.
 
 #
 
