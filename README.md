@@ -26,6 +26,14 @@ O jogo aborda temas que nos fazem refletir, como filosofia, espiritualidade, dem
 
 Por ser um estilo de RPG textual e narrativo, o código conta com inúmeras linhas que trazem o enredo do jogo. Utilizei a função *sleep* (importada do *time*) para pausar os textos em conformidade com o tempo de progressão da leitura, e dessa forma ela fica consideravelmente mais fluida. O laço *while* é outra função essencial para o funcionamento do jogo, pondo em prática o sistema de variáveis do fluxograma. Além disso, ele também foi imensamente útil para o jogo não dar erro e reiniciar caso você digite um comando errado - algo bem comum na execução de um código -, forçando o jogador a escolher **somente** dentre as opções oferecidas, e também prevenindo no caso de prováveis cliques acidentais.
 
+<!-- ###
+
+Já falando sobre progressão da aventura, utilizei um sistema de pontos chamado de *vantagem*, onde determinadas decisões do jogador somam ou subtraem *pontos de vantagem*. Após alguns turnos de ação, são realizados testes de *vantagem* que, baseados na sua quantidade de pontos acumulados durante dos turnos anteriores, poderão definir se aquela será uma tarefa fácil ou não. Porém a *vantagem* funciona como uma moeda de troca: caso você tenha pontos suficientes para passar nos testes e obter uma vantagem em determinada provação, seus pontos serão subtraídos, dessa forma não sendo possível utilizar os mesmos *pontos de vantagem* mais de uma vez. Esse sistema de pontos foi inspirado por *Call Of Cthulhu* e *GURPS*.
+
+###
+
+Considerações importantes sobre os pontos de vantagem: durante a narração, o jogador **não** saberá quantos pontos cada alternativa soma ou subtrai. A sua quantidade de pontos só será informada nos turnos de provação, os turnos testes onde haverá a testagem de pontos. -->
+
 ###
 
 Os fluxogramas utilizados na construção do jogo foram montados com MS Visio. As concepções de imagens foram extraídas de diversos locais da internet e todos os direitos são reservados aos respectivos autores. Todos os arquivos de construção (fluxogramas, referências, PDFs etc) eventualmente estarão disponíveis open source <a href="https://drive.google.com/drive/folders/1c0HQ8niQJpog8KTRT5oVV2rH2i5xRfxi?usp=sharing">bem aqui</a> e catalogados no item <a href="https://github.com/jovemfs/Astros#fontes-e-refer%C3%AAncias">Fontes e referências</a> ainda no README. 
@@ -39,7 +47,15 @@ Uma refência essencial para a criação de *Astros Perdidos* foram os RPGs de m
 O longa *Black Mirror: Bandersnatch* (2018) foi o ponta pé para me fazer iniciar o projeto. Precisava treinar laços em Python e, após rever o filme, pensei que uma boa forma de praticar seria criar situações de validação de escolhas e variáveis que definem a progressão de uma história. Obviamente a complexidade do projeto não chega nem aos pés de todas as referências e inspirações citadas nesse texto, porém esse é apenas um **estudo** sobre programação, nunca se propondo a ser uma obra prima da literatura ou algo do tipo - afinal eu sequer escrevo profissionalmente. Se quiser jogar algo realmente bom, recomendo os livro-jogos do autor <a href="https://www.amazon.com.br/RPG-Ian-Livingstone-Livros/s?rh=n%3A14486176011%2Cp_lbr_books_authors_browse-bin%3AIan+Livingstone
 ">Ian Livingstone</a>, alguns tendo sido citados no parágrafo anterior.
 
-<img src="https://user-images.githubusercontent.com/59957939/166114736-572c8e7e-3050-4015-9074-e828ec193a73.png">
+<!-- <img src="https://user-images.githubusercontent.com/59957939/166114736-572c8e7e-3050-4015-9074-e828ec193a73.png"> -->
+
+## Pontos de vantagem
+
+Falando sobre progressão da aventura, utilizei um sistema de pontos chamado de *vantagem*, onde determinadas decisões do jogador somam ou subtraem *pontos de vantagem*. Após alguns turnos de ação, são realizados testes de *vantagem* que, baseados na sua quantidade de pontos acumulados durante dos turnos anteriores, poderão definir se aquela será uma tarefa fácil ou não. Porém a *vantagem* funciona como uma moeda de troca: caso você tenha pontos suficientes para passar nos testes e obter uma vantagem em determinada provação, seus pontos serão subtraídos, dessa forma não sendo possível utilizar os mesmos *pontos de vantagem* mais de uma vez. Esse sistema de pontos foi inspirado por *Call Of Cthulhu* e *GURPS*.
+
+###
+
+Considerações importantes sobre os pontos de vantagem: durante a narração, o jogador **não** saberá quantos pontos cada alternativa soma ou subtrai. A sua quantidade de pontos só será informada nos turnos de provação, os turnos testes onde haverá a testagem de pontos.
 
 #
 
