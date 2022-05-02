@@ -332,15 +332,15 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
     acao03 = int(input('Qual carta você quer pegar? '))
     if acao03 == 1:
         carta = 'lilás'
-        vantagem += 5
+        vantagem += 8
         cartadesc = 'Nas bordas do campo existem '
     elif acao03 == 2:
         carta = 'quase-azul'
-        vantagem += 4
+        vantagem += 6
         cartadesc = ''
     elif acao03 == 3:
         carta = 'vibrante'
-        vantagem += 3
+        vantagem += 12
         cartadesc = ''
     else:
         print(' ')
