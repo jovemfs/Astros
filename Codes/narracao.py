@@ -334,15 +334,15 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
     if acao03 == 1:
         carta = 'lilás'
         vantagem += 8
-        cartadesc = 'Nas bordas do campo existem '
+        cartadesc = 'O domo é resistente e inquebrável, o que me faz pensar que seus rastros fariam uma bela armadura.'
     elif acao03 == 2:
         carta = 'quase-azul'
         vantagem += 6
-        cartadesc = ''
+        cartadesc = 'O centro é o núcleo, mas o arquiteto rejeita obviedade. Obtenha vantagens lá.'
     elif acao03 == 3:
         carta = 'vibrante'
         vantagem += 12
-        cartadesc = ''
+        cartadesc = 'Talvez não na superfície. Vá para baixo e fique por cima.'
     else:
         print(' ')
         print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
