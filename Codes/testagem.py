@@ -76,29 +76,35 @@ print(' ')
 while acao03 != 1 and acao03 != 2 and acao03 != 3:
     print('''(ação.03) Opções de carta: 
   [1] - Carta pequena. Roxo claro quase lilás, com detalhes dourados nas bordas
-  [2] - Carta média. Roxo escuro perto do azul, com muitos detalhes dourados no centro
-  [3] - Carta grande. Roxo vibrante, detalhes dourados traçam um desenho de "raízes"''')
+  [2] - Carta média. Roxo escuro perto do azul, com muitos fios dourados no centro
+  [3] - Carta grande. Roxo vibrante, pequenos retalhos dourados traçam um desenho de "raízes"''')
     print(' ')
     acao03 = int(input('Qual carta você quer pegar? '))
     if acao03 == 1:
         carta = 'lilás'
-        vantagem += 5
-        cartadesc = 'Nas bordas do campo existem '
+        vantagem += 8
+        cartadesc = 'O domo é resistente e inquebrável, o que me faz pensar que seus rastros fariam uma bela armadura.'
     elif acao03 == 2:
         carta = 'quase-azul'
-        vantagem += 2
-        cartadesc = ''
+        vantagem += 6
+        cartadesc = 'O centro é o núcleo, mas o arquiteto rejeita obviedade. Obtenha vantagens lá.'
     elif acao03 == 3:
         carta = 'vibrante'
-        vantagem += 3
-        cartadesc = ''
+        vantagem += 12
+        cartadesc = 'Talvez não na superfície. Vá para baixo e fique por cima.'
     else:
         print(' ')
         print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
         print(' ')
-print(' VERIFICACAO: {}, {}'.format(carta, vantagem, cartadesc))
+sleep(3)
+print(''' Você olha atentamente para aquelas cartas e tenta se lembrar de algum jogo que
+talvez conheça. Tentativa falha, não consegue se recordar de nada. Depois de alguns poucos
+minutos observando o monte, finalmente se decide e pega a carta {} para si.'''.format(carta))
+print(' ')
+print(' VERIFICACAO: {}, {}, {}'.format(carta, vantagem, cartadesc))
 print(' ')
 # <-- ITEM INICIAL COMEÇO -->
+
 
 print('''#
 #
@@ -120,7 +126,7 @@ if vantagem < 3:
     print(' Voce nao passou no teste')
 else:
     print(' Voce passou no teste')
-    vantagem -= vantagem
+    vantagem -= 5
 print(' VERIFICAÇÃO: {} pontos atuais de vantagens'.format(vantagem))
 # <-- VANTAGEM STATUS FINAL -->
 
