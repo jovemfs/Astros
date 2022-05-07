@@ -296,21 +296,21 @@ print(''' - Me desculpe pelos péssimos modos, {}. Hoje é o dia em que seus pai
 você tem o mesmo sangue que eles, e precisará de muita sorte para o que virá adiante. Farei o possível para lhe ajudar,
 mas não temos muito tempo para nos aperfeiçoarmos. -- ela disse enquanto colocava a {} em seu corpo.'''.format(nome, iteminicial))
 print(' ')
-sleep(8)
+sleep(10)
 print(''' - Pecados? -- surge uma expressão gritante de dúvida em seu rosto -- Ora, sei que minha família possui
 inúmeras falhas, mas não imaginei que O Conselho ficaria enfurecido com suas atitudes. O que houve?''')
 print(' ')
-sleep(5)
+sleep(7)
 print(''' A moça, que antes estava lhe adornando, passa a te olhar fixamente em reprovação. Você se assusta um pouco
 com a ousadia dela, mas admite que é emocionante fugir da rotina de intocável autoridade suprema, ainda que isso
 significasse um funcionário estranho lhe constrangendo em seu próprio quarto.''')
 print(' ')
-sleep(10)
+sleep(12)
 print(''' - Não é sobre o conselho, {}. Se trata de algo maior. Eu sei que vocês costumam pensar que dinheiro é a maior
 conquista de um homem, mas não, não é. Existem coisas maiores e mais importantes nesse plano, e receio que você falhe no teste
 graças a sua ignorância e inocência.'''.format(nome))
 print(' ')
-sleep(9)
+sleep(10)
 print(''' - Se não é pelo conselho, senhora, então por quem seria? -- Quando repara o tom de arrogância em sua voz,
 se lembra a razão pela qual odeia tanto ouvir os discursos arranjados de seu pai, e logo retorna para um tom
 mais compassivo e calmo -- Quer dizer, não que eu concorde com tudo, mas não conheço qualquer um além de três no
@@ -364,8 +364,8 @@ sleep(9)
 while acao03 != 1 and acao03 != 2 and acao03 != 3:
     print('''(ação.03) Opções de carta: 
   [1] - Carta pequena. Roxo claro quase lilás, com detalhes dourados nas bordas
-  [2] - Carta média. Roxo escuro perto do azul, com muitos detalhes dourados no centro
-  [3] - Carta grande. Roxo vibrante, detalhes dourados traçam um desenho de "raízes"''')
+  [2] - Carta média. Roxo escuro perto do azul, com muitos fios dourados no centro
+  [3] - Carta grande. Roxo vibrante, pequenos retalhos dourados traçam um desenho de "raízes"''')
     print(' ')
     acao03 = int(input('Qual carta você quer pegar? '))
     if acao03 == 1:
@@ -385,6 +385,10 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
         print('''!! OPÇÃO INVÁLIDA. POR FAVOR, REFAÇA !!''')
         print(' ')
 
-print(''' ''')
+print(' ')
+sleep(4)
+print(''' Você olha atentamente para aquelas cartas e tenta se lembrar de algum jogo que
+talvez conheça. Tentativa falha, não consegue se recordar de nada. Depois de alguns poucos
+minutos observando o monte, finalmente se decide e pega a carta {} para si.'''.format(carta))
 print(' ')
 sleep(8)
