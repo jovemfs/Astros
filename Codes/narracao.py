@@ -51,9 +51,9 @@ nome = str(input('Qual será o seu primeiro nome? ')).strip()
 
 while escolhaidade != 1 and escolhaidade != 2 and escolhaidade != 3:
     print('''Opções de idade: 
-  [1] - 15
-  [2] - 17
-  [3] - 18  ''')
+[1] - 15
+[2] - 17
+[3] - 18  ''')
     escolhaidade = int(input('Qual será sua idade? '))
     if escolhaidade == 1:
         idade = 15
@@ -83,7 +83,7 @@ dar ouvidos aos místicos excêntricos que aparecem em seus conturbados auges, o
 que de alguma forma te fez detestar cada vez mais os que não eram céticos.''')
 sleep(10)
 print(' ')
-print(''' Era notável que o jovem {} não gosta muito da ideia de compromissos
+print(''' É notável que o jovem {} não gosta muito da ideia de compromissos
 sociais, sobretudo por estarem em um dia que o deixava exausto, sempre. Obviamente
 a presença dos Cultuadores e do Culto em si deixavam tudo ainda pior.'''. format(nome))
 sleep(11)
@@ -273,8 +273,8 @@ sleep(10)
 
 while acao02 != 1 and acao02 != 2:
     print('''(ação.02) Opções de item: 
-  [1] - Pulseira verde-esmeralda
-  [2] - Corrente dourada cravejada de brilhantes  ''')
+[1] - Pulseira verde-esmeralda
+[2] - Corrente dourada cravejada de brilhantes  ''')
     print(' ')
     acao02 = int(input('Qual item você quer pegar? '))
     if acao02 == 1:
@@ -318,7 +318,7 @@ Conselho que ouse desafiar o poder de meu pai. Vai por mim, eu sei que ele faria
 print(' ')
 sleep(12)
 print(''' - Não se trata de poder ou medo. Se trata de respeito, algo que há muito vocês ignoram por aqui.
-Desde Sary seus antepassados não respeitam as tradições, vocês pisaram sobre a memória de Jima, não?
+Desde Sary, seus antepassados não respeitam as tradições, vocês pisaram sobre a memória de Jima, não?
 Não pense que gosto de estar aqui, mas cada uma de nós foi encarregada de cuidar de um Jovem. A partir
 de agora você é meu fardo e eu sou o seu, então trabalhemos em equipe, certo? ''')
 print(' ')
@@ -363,9 +363,9 @@ sleep(9)
 
 while acao03 != 1 and acao03 != 2 and acao03 != 3:
     print('''(ação.03) Opções de carta: 
-  [1] - Carta pequena. Roxo claro quase lilás, com detalhes dourados nas bordas
-  [2] - Carta média. Roxo escuro perto do azul, com muitos fios dourados no centro
-  [3] - Carta grande. Roxo vibrante, pequenos retalhos dourados traçam um desenho de "raízes"''')
+[1] - Carta pequena. Roxo claro quase lilás, com detalhes dourados nas bordas
+[2] - Carta média. Roxo escuro perto do azul, com muitos fios dourados no centro
+[3] - Carta grande. Roxo vibrante, pequenos retalhos dourados traçam um desenho de "raízes"''')
     print(' ')
     acao03 = int(input('Qual carta você quer pegar? '))
     if acao03 == 1:
@@ -392,3 +392,23 @@ talvez conheça. Tentativa falha, não consegue se recordar de nada. Depois de a
 minutos observando o monte, finalmente se decide e pega a carta {} para si.'''.format(carta))
 print(' ')
 sleep(8)
+print(''' Inspecionando o item, o Jovem pode observar melhor a tonaliade e seus desenhos.
+Nenhuma carta é igual a outra, mas a que você pegou se parecia completamente diferente das
+demais. Depois de olhar minuciosamente seu contorno, você pode notar algo grafado em latim:
+
+ "{}"'''.format(cartadesc))
+print(' ')
+sleep(11)
+print(''' As coisas faziam cada vez menos sentido.''')
+print(' ')
+sleep(4)
+print(''' - Tenho uma dúvida, senhora... Qual é mesmo o seu nome?''')
+print(' ')
+sleep(4)
+print(''' Entendendo que cometeu um deslize, você tenta puxar assunto. Um lado narcisista de
+sua personalidade grita para que pare: "uma empregada qualquer não é tão importante", pensa ele.
+Mas você sabe que errou e que deve se redimir de alguma forma. Vinha pensando há algum tempo
+sobre como, se pudesse, gostaria de fazer a diferença na vida dos desfavorecidos, e agora acaba
+de desrespeitar a moça que provavelmente viria a trabalhar com você. Falhou, falhou e sabe disso.''')
+print(' ')
+sleep(12)
