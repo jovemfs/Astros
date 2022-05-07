@@ -97,7 +97,7 @@ sleep(13)
 print(' ')
 print(''' Quando aberta, a passagem recebe uma moça jovem que tropeça nos
 próprios pés enquanto tenta fechar a porta atrás de si. Ela se atrapalha e
-tentav a todo custo disfarçar sua falta de experiência, por mais que fizesse com
+tentava a todo custo disfarçar sua falta de experiência, por mais que fizesse com
 boa vontade. Tendo conseguido encostar a pesada porta, a jovem olhou deslumbrada
 para o que conhecerá: ela estava lá, os aposentos do Jovem Filho do Sol.''')
 sleep(13)
@@ -214,47 +214,59 @@ Na esquerda guarda uma bolsa de couro, e seu conteúdo você só pode especular,
 não costuma aparecer sempre. ''')
 print(' ')
 sleep(8)
-print(''' Ela parece notar seu olhar curioso frente a bolsa que carrega, e por alguns segundos pensou
-em fazer suspense, mas logo desistiu da ideia. "Seria legal abrir o jogo com o Jovem e ganhar pontos",
-pensou ela. O plano estava montado...''')
+print(''' Ela parece notar seu olhar curioso frente a bolsa que carrega, e por breves segundos arquitetava
+um plano de como introduzir aquele bate-papo.''')
 print(' ')
 sleep(5)
-print(''' A moça se aproximou de você com a adaga verde-esmeralda em mãos, dessa vez empunhando-a da
-forma correta. Ela deu dois passos para frente, ficando a centímetros de sua face. Você se sente ameaçado,
-mas racionalmente sabe que não há nada a temer. A adaga é colocada sobre seu peito, e então o sentimento
-de confiança vai embora e o desconforto começa a dominar.''')
+print(''' Então sua mão direita levanta a adaga verde-esmeralda. Ela a leva até a altura de sua face, passando
+a proferir baixinho palavras em um idioma desconhecido para você. Depois de algumas frases intraduzíveis,
+a mulher acaba seu ritual e então a lâmina começa a brilhar como se houvesse fogo contido nela.''')
 print(' ')
 sleep(10)
-print(''' - Você certamente não conhece essa bolsa, muito menos o que trago nela... -- uma pausa na frase e então
-ela começa a te olhar em completo silêncio. A moça claramente estava te desafiando. -- É uma coisa nova, na
-verdade é a razão pela qual estamos aqui, eu e Elas.''')
-print(' ')
-sleep(7)
-print(''' "Elas"? "Elas" quem? Isso nunca acontecera, você não faz ideia da razão pela qual está sendo sutilmente
-ameaçado por sua serviçal particular.''')
-print(' ')
-sleep(5)
-print(''' - Quem é você? Qual é seu nome? -- com a voz trêmula {} diz enquanto se afasta lentamente da lâmina esmeralda sobre seu peito.
-Você alterna sua visão entre a lâmina e a moça que parecia se divertir com sua situação de angústia.'''.format(nome))
-print(' ')
-sleep(5)
-print(''' - Meu nome? -- ela abre um sorriso como quem esperasse ansiosamente por essa pergunta -- Você já se perguntou
-a razão pela qual todas as outras evitavam falar com você? -- a moça aguardou sua resposta, o que não aconteceu -- Sou
-diferente delas, seus pais me pediram para que fosse. Se você colaborar, eu posso te dar algumas dicas para o torneio.''')
-print(' ')
-sleep(9)
-print(''' Ok, agora começou a ficar estranho. Uma nova serviçal surge em seu quarto, e sua primeira impressão sobre
-ela é boa. Porém em minutos sua personalidade flui e ela passa a lhe ameaçar com uma adaga amedrontadora, além de citar
-coisas das quais você desconhece completamente. Isso definitivamente estava estranho.''')
+print(''' Você conhece aquela adaga de longa data. Estava na sua linhagem há anos, um presente de um suposto
+mago a seu querido avô. Más línguas diziam que trazia A Maldição da Melancolia, essa responsável por levar a
+alma de sua irmã, prima e tia, todas da mesma forma e no mesmo dia.''')
 print(' ')
 sleep(8)
-print(''' Em segundos, sua personalidade muda novamente e a garota se afasta juntamente com a adaga, mas segue te olhando
-com satisfação visível. Seja lá o que estava tramando, deu certo.''')
+print(''' Era óbvio o receio para com a faca, mas por um momento o sentimento foi substituído por um fascínio
+quando a mesma começara a brilhar. Era quase hipnotizante, eu diria. Nenhuma jóia brilhara dessa forma perante
+os seus olhos, nem mesmo as mais caras de sua coleção familiar.''')
 print(' ')
-sleep(5)
-print(''' - {}, eu tenho novidades para você... -- caminhando até o centro do quarto, ela abre a bolsa de couro e despeja
-seu conteúdo sobre a mesa redonda de mármore. Você pode observar alguns itens curiosos, dentre eles um frasco contendo um líquido
-rosa vibrante, algo que parecia ser uma bússola ou um relógio, uma pulseira verde-esmeralda da mesma tonalidade da adaga e uma
+sleep(8)
+print(''' A moça se aproximou de você com a arma em mãos, dessa vez empunhando-a da forma correta.
+Ela deu dois passos para frente, ficando a centímetros da própria face. Você se sente levemente ameaçado,
+mas racionalmente sabe que não há nada a temer. A adaga é colocada frente a seu peito, e então passa a
+brilhar mais e mais conforme se aproximam um do outro.''')
+print(' ')
+sleep(10)
+print(''' - Previ que você não conheceria o que trago na bolsa, Jovem {}. -- a moça dá uma longa pausa arrastada
+que consegue deixar ambos nervosos enquanto admiram o brilho da lâmina esmeralda. -- Pensei que poderia lhe ajudar.
+Essa arma nasceu para um estilo sutil de matar... é uma arte, entende? E você precisa a dominar antes de ser
+levado até a Arena.'''.format(nome))
+print(' ')
+sleep(10)
+print(''' "Arena"? "Matar"? Do que diabos aquela mulher estava falando!?''')
+print(' ')
+sleep(4)
+print(''' - Receio que tenha errado de quarto, senhora. Não conheço tal Arena, muito menos "a arte de matar".
+Sou um aluno do filósofo de Sinab, e no momento me encontro atrasado para os compromissos sociais. -- {} falou
+enquanto tentava se afastar da moça que agora lhe parecia maliciosa.'''.format(nome))
+print(' ')
+sleep(9)
+print(''' Ela te fitou por breves segundos e suspirou pesadamente. Era nítido em sua expressão que lhe restara pouca
+paciência. A garota tinha pouco manejo com as palavras, e no atual momento parecia ansiosa demais. A impressão geral
+era de que seria uma conversa complicada...''')
+print(' ')
+sleep(7)
+print(''' - Por favor, {}, sem perguntas. Não existe uma forma sã de lhe passar tais informações neste momento. Só
+preciso que confie em mim e siga minhas ordens... -- ela saiu de sua frente antes que você pudesse falar algo, e então
+caminhou em direção a mesa novamente -- preciso de sua colaboração. Nossas vidas, as duas, valem ISSO. -- falou apontando
+para a bolsa de couro.'''.format(nome))
+print(' ')
+sleep(11)
+print(''' Caminhando até o centro do quarto, ela abre a bolsa e despeja seu conteúdo sobre a mesa redonda de mármore.
+Você pode observar alguns itens curiosos, dentre eles um frasco contendo um líquido rosa vibrante, algo que parecia ser
+uma bússola ou um relógio, um monte de cartas, uma pulseira verde-esmeralda da mesma tonalidade da adaga e uma
 corrente dourada cravejada de brilhantes. A moça pega apenas os dois últimos itens e caminha até você.'''.format(nome))
 print(' ')
 sleep(10)
@@ -280,49 +292,74 @@ print(''' {} olha para ela com medo. Existe uma certa resistência, mas após al
 e pega a {} que ela guardava.'''.format(nome, iteminicial))
 print(' ')
 sleep(4)
-print(''' - Me desculpe pela péssima brincadeira, {}. Mas é que hoje será um dia diferente e eu acho que podemos
-fazer um trato bom para ambos os lados. Eu estou tão nervosa quanto você, pode ter certeza quanto a isso.'''.format(nome))
+print(''' - Me desculpe pelos péssimos modos, {}. Hoje é o dia em que seus pais pagarão por seus pecados. Infelizmente
+você tem o mesmo sangue que eles, e precisará de muita sorte para o que virá adiante. Farei o possível para lhe ajudar,
+mas não temos muito tempo para nos aperfeiçoarmos. -- ela disse enquanto colocava a {} em seu corpo.'''.format(nome, iteminicial))
 print(' ')
-sleep(6)
-print(''' O Jovem a olha com uma dúvida latente. Não entende de fato sobre o que "um trato" significava.
-Estava com medo da moça, mas também intrigado para saber o que o dia de hoje reservava.''')
+sleep(8)
+print(''' - Pecados? -- surge uma expressão gritante de dúvida em seu rosto -- Ora, sei que minha família possui
+inúmeras falhas, mas não imaginei que O Conselho ficaria enfurecido com suas atitudes. O que houve?''')
 print(' ')
 sleep(5)
-print(''' - Certo, podemos fechar um acordo. Mas antes preciso que me explique o que está acontecendo. Além disso,
-exijo saber o seu nome. Não confio em quem não responde por si. -- disse {} com a voz trêmula. Era notável sua falha
-tentativa de impor respeito, mas ele não era bom nisso.'''.format(nome))
+print(''' A moça, que antes estava lhe adornando, passa a te olhar fixamente em reprovação. Você se assusta um pouco
+com a ousadia dela, mas admite que é emocionante fugir da rotina de intocável autoridade suprema, ainda que isso
+significasse um funcionário estranho lhe constrangendo em seu próprio quarto.''')
 print(' ')
-sleep(8)
-print(''' A moça também estava ansiosa, mas agora sentia mais autoconfiança. Sabia que seria fácil obter vantagens
-por intermédio de {}, mas não sabia que seria tão fácil. Ela se aproximou do Jovem novamente, dessa vez trazendo
-o líquido rosa vibrante consigo.'''.format(nome))
+sleep(10)
+print(''' - Não é sobre o conselho, {}. Se trata de algo maior. Eu sei que vocês costumam pensar que dinheiro é a maior
+conquista de um homem, mas não, não é. Existem coisas maiores e mais importantes nesse plano, e receio que você falhe no teste
+graças a sua ignorância e inocência.'''.format(nome))
 print(' ')
-sleep(8)
-print(''' - Tome isso, {}. -- disse entregando o frasco em suas mãos -- Os outros Jovens não terão informações privilegiadas
-como você teve, então espero que valorize e que se lembre de mim. Quando estiver adentrando a Masmorra, peça licença e
-beba todo o líquido, mas cuidado para não lhe verem fazendo isso, você sofreria desgraças.'''.format(nome))
+sleep(9)
+print(''' - Se não é pelo conselho, senhora, então por quem seria? -- Quando repara o tom de arrogância em sua voz,
+se lembra a razão pela qual odeia tanto ouvir os discursos arranjados de seu pai, e logo retorna para um tom
+mais compassivo e calmo -- Quer dizer, não que eu concorde com tudo, mas não conheço qualquer um além de três no
+Conselho que ouse desafiar o poder de meu pai. Vai por mim, eu sei que ele faria um estrago com eles...''')
 print(' ')
-sleep(7)
-print(''' Você começa a analisar o frasco com cuidado, dessa vez encarando o líquido e tentando se lembrar se já o
-vira em algum outro momento de sua vida.''')
+sleep(12)
+print(''' - Não se trata de poder ou medo. Se trata de respeito, algo que há muito vocês ignoram por aqui.
+Desde Sary seus antepassados não respeitam as tradições, vocês pisaram sobre a memória de Jima, não?
+Não pense que gosto de estar aqui, mas cada uma de nós foi encarregada de cuidar de um Jovem. A partir
+de agora você é meu fardo e eu sou o seu, então trabalhemos em equipe, certo? ''')
 print(' ')
-sleep(4)
-print(''' {}, assim como a maior parte dos jovens ricos, tivera um excelente ensino de conhecimentos gerais. O Jovem
-colecionava aulas da matéria Química Celeste e Poções Terrenas, mas não se lembrou de nada que se comportasse como
-o líquido daquele frasco. Ele se movia sozinho e vibrava em diferentes tons de rosa. Começou a nascer um receio de ingerir
-aquilo, e talvez de fato o Jovem não fosse beber.'''.format(nome))
+sleep(12)
+print(''' - Jima? -- você solta uma risada de deboche -- Convenhamos, eu também destesto essa baboseira
+real e todo o teatro para cima dos Cultuadores. Mas Jima é só um charlatão igualmente a Sary, dois tolos
+mentirosos e manipuladores das massas. Não tenho respeito algum por Jima.''')
 print(' ')
-sleep(11)
-print(''' - Tenho condições. Se quiser que lhe ajude, seja lá como exigir, terá que me detalhar o que acontecerá
-no dia de hoje, quem são "Elas", o que faz esse líquido e também qual é o seu nome, pergunta da qual você fugiu algumas
-vezes.''')
+sleep(10)
+print(''' - {}, ele não era um mentiroso como Sary, muito menos manipulador. Talvez fosse o último
+mago a se prestar a tentar ajudar gananciosos reis e salvar seus povos. Teve um nobre papel, mas 
+infelizmente padeceu como todos o avisaram. Não vale a pena se envolver com ricos, todos eles são
+falsos reis construídos sobre muita maldade e egoísmo.'''.format(nome))
 print(' ')
-sleep(8)
-print(''' - Tudo bem, eu respondo todas. -- ela caminhou até o centro do cômodo novamente, próximo a mesa. Ali retirou um
-monte com cartas roxas com detalhes dourados, mas cada uma com tonalidades e tamanhos diferentes. -- Venha até aqui, {},
-pegue uma carta e vamos treinar.'''.format(nome))
+sleep(13)
+print(''' - Se quer respeito por sua fé, não espere isso de mim. Jima, Sary e os demais mentirosos
+metidos a mágicos somente me atrasaram. Veio cobrar de minha família por ser cegamente fiel à um idiota
+que copiava frases de filósofos menores? Ótimo, mas me mantenha fora disso, eu jamais acreditei nessa
+baboseira toda de Sary, Jima, Luther ou qualquer outro.''')
 print(' ')
-sleep(7)
+sleep(12)
+print(''' - Como pode ter uma visão de mundo tão ampla sem nem mesmo ter permissão para sair
+do próprio quarto, senhor Rama? -- ela falou com deboche. Deu certo, a garota tinha lhe atingido --
+Você, mais do que todos nessa casa, não faz a mínima ideia de como o universo funciona, muito menos
+o real valor de um homem bom disposto a ajudar. -- a moça se aproximava de você conforme falava,
+e seu tom de voz e expressão facial faziam parecer que ela iria atacar -- Está na hora de pagarem
+pelos prejuízos que causaram às inúmeras almas condenadas por seus pais.''')
+print(' ')
+sleep(15)
+print(''' A moça tinha lágrimas contidas em seus olhos num esforço para não caírem naquele
+momento. Você sabia que tinha passado do ponto, sabia que a fé para algumas pessoas é a coisa
+mais importante de suas vidas. Não entendia sobre pecados, dívidas ou o mal que sua família
+teria feito, mas sabia que aquela garota sentira na pele a dor.''')
+print(' ')
+sleep(12)
+print(''' Enquanto você pensava sobre o diálogo que acabara de acontecer, ela caminhou novamente
+ate a mesa de centro e pegou o monte de cartas que havia sido retirado da bolsa, dessa vez
+voltando até você e lhe oferecendo as cartas sem dizer uma palavra sequer.''')
+print(' ')
+sleep(9)
+
 
 while acao03 != 1 and acao03 != 2 and acao03 != 3:
     print('''(ação.03) Opções de carta: 
