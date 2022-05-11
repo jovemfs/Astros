@@ -1,10 +1,12 @@
 # Termos
 
 - Atal: região/país onde a aventura se passa. É um continente de aproximadamente 20 milhões km², vegetação de altitude e com clima predominantemente frio na maior parte do ano. Ele é governado pelo Conselho - grupo de exímios -, mas com forte influência das famílias ricas que ali habitam.
+- Conselho: 
 - Culto: o *Culto de Rama* (ou apenas *O Culto*) é uma espécie de seita onde seus membros creem que todas as bênçãos sobre o domínio dos Rama são provenientes de sua conexão milenar com os bons-espíritos, esses os abençoando e garantindo prosperidade.
 - Cultuadores: os membros do *Culto de Rama*.
 - Jima Tafah: um pesquisador que por muitos anos serviu como conselheiro dos Rama. Sua influência morreu com ele quando seu corpo foi encontrado coberto por runas em um dos inúmeros quartos com finalidades controversas da mansão da família. Más línguas os chamam de "*O Servo de Nimes*" por supostamente ter sido um poderoso místico e aliado de maus-espíritos.
 - Nimes: lido popularmente como um mau-espírito, ele é relacionado ao domínio de poções, tendo sido reconhecido como quem poderia lhe dar conhecimento necessário para criá-las para diferentes finalidades - desde que, claro, você seja um servo dele. Suas runas e selos geralmente são encontrados durante o processo de criação de poções com finalidades, digamos, nada éticas, e por isso seu culto não é tão aceito socialmente.
+- Período Haiab: 
 - Rama: família do nosso personagem principal. São proprietários de minas de um precioso material raro no universo, por isso possuem uma grande fortuna e influência social. 
 - Valis: idioma antigo utilizado por supostos magos no Período Haiab. Inúmeras runas e passagens místicas estão em Valis. No tempo em que a aventura se passa, poucas pessoas têm fluência nele; alunos de magia e curiosos costumam ocupar essa posição.
 
@@ -16,6 +18,7 @@ O sistema de crenças e religiosidade em Atal é majoritariamente sincretista, c
 ###
 
 A seguir, um breve resumo sobre as religiões mais famosas:
+- Bada: 
 - Murim: "*Os Escritos de Samuel Murim*" trazem uma suposta revelação para a humanidade, essa afirmando que existimos em conjunto com espíritos bons e maus, cada um com domínio sobre determinada arte. Segundo Murim, todo *conhecimento inicial*, ou seja, a primeira vez em que se soube aquilo, foi obtido através de conversas com espíritos. Um mau-espírito só lhe passa o domínio de uma arte mediante uma troca, já um bom-espírito abençoa seus servos voluntariamente e em um momento certo (ou seja, não existem trocas com bons-espíritos). Murim incentivava seus colegas a cultuarem bons-espíritos, para que assim sua sabedoria aumentasse e pudessem evoluir plenamente para seres tão sábios quanto seus "deuses".
 - Shair: os escritos de Aysha, uma filósofa e mística, estão reunidos n'"*O Diagrama Inicial de Nossa Existência Ínfima*", uma série de ilustrações em forma de diagrama e contendo explicações detalhadas sobre como surgimos e a razão de estarmos aqui. Na obra, Aysha afirma a existência de seres cósmicos cuja influência sobre a Terra era imensa, além de nos colocar em um espaço de insignificância que beira o horror cósmico. No geral, os crentes somente na Shair costumam não atribuir utilidade na existência, além de serem responsáveis por uma significativa porcentagem dos suicídios ocorridos em Atal.
 - Sharim: a fusão de Murim com Shair. Reúne características de ambas quase que igualmente, trazendo os espíritos de Murim e os colocando como os seres cósmicos mencionados na Shair. Seus crentes acreditam que Samuel (Murim) e Aysha (Shair) receberam revelações complementares, porém em épocas diferentes; assim, os espíritos/seres quiseram que fossem fundidos, formando uma só religião guia que elevaria todos os fiéis ao patamar de sabedoria suprema.
