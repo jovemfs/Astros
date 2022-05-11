@@ -392,11 +392,11 @@ talvez conheça. Tentativa falha, não consegue se recordar de nada. Depois de a
 minutos observando o monte, finalmente se decide e pega a carta {} para si.'''.format(carta))
 print(' ')
 sleep(8)
-print(''' Inspecionando o item, o Jovem pode observar melhor a tonaliade e seus desenhos.
+print(''' Inspecionando o item, o Jovem pode observar melhor a tonalidade {} e seus desenhos.
 Nenhuma carta é igual a outra, mas a que você pegou se parecia completamente diferente das
-demais. Depois de olhar minuciosamente seu contorno, você pode notar algo grafado em latim:
+demais. Depois de olhar minuciosamente seu contorno, você pode notar algo grafado em Valis:
 
- "{}"'''.format(cartadesc))
+ "{}"'''.format(carta, cartadesc))
 print(' ')
 sleep(11)
 print(''' As coisas faziam cada vez menos sentido.''')
