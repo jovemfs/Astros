@@ -19,10 +19,10 @@ print('''
                 .'@  @@@   @    .   . `.
              .'   . @@@@ 
             / @@o    @@
-            |@@@                                       *_..
-           / @@@@   `.-.                    ASTROS
-           |@ @@                        +.!       PERDIDOS
-           \     @@                            *
+            |@@@                                 *_..
+           / @@@@   `.-.              ASTROS
+           |@ @@                  +.!       PERDIDOS
+           \     @@                      *
             |        @
             \  .  @@  @\  
              `.  @@@@  _\ /    .      o .'  
@@ -70,6 +70,12 @@ print(' ')
 print('***'*21)
 
 sleep(5)
+print(' ')
+print(''' "A coisa mais misericordiosa do mundo é, segundo penso, a incapacidade da 
+mente humana em correlacionar tudo o que sabe. Vivemos em uma plácida ilha de ignorância
+em meio a mares negros de infinitude, e não fomos feitos para ir longe."
+''')
+sleep(10)
 print(' ')
 print(''' O sir. Sary costumava repetir que os domingos são dias sagrados
 para a família Rama. Talvez as baboseiras por ele proferidas fossem
@@ -388,11 +394,15 @@ while acao03 != 1 and acao03 != 2 and acao03 != 3:
 print(' ')
 sleep(4)
 print(''' Você olha atentamente para aquelas cartas e tenta se lembrar de algum jogo que
-talvez conheça. Tentativa falha, não consegue se recordar de nada. Depois de alguns poucos
-minutos observando o monte, finalmente se decide e pega a carta {} para si.'''.format(carta))
+talvez conheça. Samir, seu colega de infância, costumava o levar para inúmeras aventuras nos
+cassinos suburbanos da cidade, o que inevitavelmente lhe fez conhecer vários jogos de azar.''')
 print(' ')
 sleep(8)
-print(''' Inspecionando o item, o Jovem pode observar melhor a tonalidade {} e seus desenhos.
+print(''' Ainda sim, tentativa falha, não consegue se recordar de nada. Depois de alguns poucos
+minutos observando o monte, finalmente se decide e pega a carta {} para si.'''.format(carta))
+print(' ')
+sleep(7)
+print(''' Inspecionando o item, o Jovem pôde observar melhor a tonalidade {} e seus desenhos.
 Nenhuma carta é igual a outra, mas a que você pegou se parecia completamente diferente das
 demais. Depois de olhar minuciosamente seu contorno, você pode notar algo grafado em Valis:
 
@@ -412,3 +422,76 @@ sobre como, se pudesse, gostaria de fazer a diferença na vida dos desfavorecido
 de desrespeitar a moça que provavelmente viria a trabalhar com você. Falhou, falhou e sabe disso.''')
 print(' ')
 sleep(12)
+print(''' - Aprecio o seu esforço, {}. Mas não temos tempo para isso.'''.format(nome))
+print(' ')
+sleep(3)
+print(''' Ela caminha até você e checa se pegou mesmo uma das cartas do monte. Parece analisar
+com cuidado. Depois de ter certeza da veracidade do item em suas mãos, ela coloca o restante do
+monte de volta na bolsa.''')
+print(' ')
+sleep(6)
+print(''' Assim que o conteúdo retorna a bolsa, uma luz começa a brilhar lá de dentro.
+Como um flash tentando escapar, um farol cegante procura brechas para encontrar seus olhos.
+A bolsa estava jogada vázia sobre a mesa, portanto a luz não conseguia chegar até vocês.
+Ainda sim, era magnífico. Você nunca viu qualquer luz - artificial ou natural - brilhar daquela
+forma, nem mesmo o próprio sol.''')
+print(' ')
+sleep(13)
+print(''' Era tentandor, grandioso, estupendo. Em outras circunstâncias o medo já o teria
+dominado, mas aquilo parecia mais como um chamariz. Você se aproximava sem perceber, dando
+pequenos e lentos passos em direção a luz que tentava sair da bolsa. Estava para a luz
+o que um marinheiro está para o canto de uma sereia.''')
+print(' ')
+sleep(13)
+print(''' Sem parecer ter muita pressa, a moça não estava nada surpresa com sua ilusão
+pela luz. Ela, assim como as demais mulheres de onde vem, tem uma resistência a encantos.
+Por prever suas ações, ela logo se adianta e, quando você está quase alcançando a bolsa
+com suas mãos, a moça o pega pelos ombros, arrastando-o de volta e jogando sobre a cama.''')
+print(' ')
+sleep(11)
+print(''' - Me disseram que você não tinha sonhos de riqueza, Rama. Pelo visto estavam
+mentindo. -- disse ela com uma voz carregada de uma decepção já premeditada -- Mas agora,
+preciso que compartilhe comigo sobre a carta que tirou. Me conte tudo, por favor.''')
+print(' ')
+sleep(10)
+print(''' Ainda tentando raciocinar enquanto voltava a si, {} pegou a carta, essa que
+agora se encontrava no chão após ser abandonada para que o Jovem pudesse alcançar a luz.'''.format(nome))
+print(' ')
+sleep(6)
+print(''' - Bom, tenho quase certeza que aqui diz "{}". Está em valis, a língua das runas,
+você deve conhecer. Não consegui entender o que significa, mas se parece com um dos enigmas
+da Arena de Sadar.'''.format(cartadesc))
+print(' ')
+sleep(8)
+print(''' - Eu não conseguia ver.''')
+print(' ')
+sleep(4)
+print(''' - O que? O que não conseguia ver? -- você a olha com uma feição confusa.''')
+print(' ')
+sleep(5)
+print(''' - Os itens da bolsa, eu não conseguia ver o conteúdo de nenhum. Não
+consegui ver as cartas, estavam borradas. Isso é magia, {}, magia na qual você não 
+acredita. É dessa magia que Jima nos avisou.'''.format(nome))
+print(' ')
+sleep(8)
+print(''' - Talvez você precise de óculos, não de conselhos de um bruxo. -- você solta sem
+ao menos perceber, se culpando um pouco ao se dar conta.''')
+print(' ')
+sleep(7)
+print(''' Ela ignora sua fala debochada e toma a carta para si, aparentemente agora
+conseguindo analisar seu conteúdo. A moça anda pelo cômodo, parando em frente a sua 
+estante particular e retirando um dicionário de runas, presente pessoal de sua irmã
+há muito abandonado na estante.''')
+print(' ')
+sleep(10)
+print(''' Ao contrário de você que sequer tinha lido o livro, a garota parecia o conhecer
+bem. Tinha o folheado e sabia que não funcionava como um dicionário comum, com palavras
+organizadas em ordem alfabética. Na verdade era tão caótico que inúmeras pessoas se
+organizavam para desvendar suas passagens, e certos capítulos não tinham tradução até
+os dias de hoje.''')
+print(' ')
+sleep(13)
+print(''' Colocando a carta ao lado do livro, ela para em uma página e começa a ler
+seu conteúdo calmamente. Alguém acaba de encontrar o que buscava.''')
+print(' ')
+sleep(5)
